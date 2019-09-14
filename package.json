@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "eslint": "^6.4.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
@@ -31,6 +30,8 @@
     ]
   },
   "devDependencies": {
-    "@arkweid/lefthook": "^0.6.3"
+    "@arkweid/lefthook": "^0.6.3",
+    "eslint": "^6.4.0",
+    "eslint-plugin-react": "^7.14.3"
   }
 }
