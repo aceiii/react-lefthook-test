@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint": "^6.4.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "typescript": "^3.6.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +29,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@arkweid/lefthook": "^0.6.3"
   }
 }
